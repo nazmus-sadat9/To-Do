@@ -1,5 +1,5 @@
 # To-Do-Lis
-***Don't use it at now because there are too many bugs***
+***Don't use it at now because there are too many bugs. I try to fix this***
 
 This is a very simple TO DO list app. 
 ## Usage 
